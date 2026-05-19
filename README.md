@@ -23,8 +23,8 @@ Organisez, recherchez, écoutez et glissez-déposez vos fichiers audio directeme
 
 | Format | Lien | Usage |
 |---|---|---|
-| **Installeur** (recommandé) | [⬇ SFX-Deck-Windows-Setup-v1.0.0.exe](https://github.com/Takinouu/sfx-deck-downloads/releases/download/v1.0.0/SFX-Deck-Windows-Setup-v1.0.0.exe) | Installation standard |
-| Portable | [⬇ SFX-Deck-Windows-Portable-v1.0.0.exe](https://github.com/Takinouu/sfx-deck-downloads/releases/download/v1.0.0/SFX-Deck-Windows-Portable-v1.0.0.exe) | Sans installation |
+| **Installeur** (recommandé) | [⬇ SFX-Deck-Windows-Setup-v1.0.0.exe](https://github.com/Takinouu/sfx-deck-downloads/releases/download/v1.0.0/SFX-Deck-Windows-Setup-v1.0.0.exe) | Installation standard · 97 Mo |
+| Portable | [⬇ SFX-Deck-Windows-Portable-v1.0.0.exe](https://github.com/Takinouu/sfx-deck-downloads/releases/download/v1.0.0/SFX-Deck-Windows-Portable-v1.0.0.exe) | Sans installation · 81 Mo |
 
 > Testé sur Windows 10 et 11 (64-bit)
 
