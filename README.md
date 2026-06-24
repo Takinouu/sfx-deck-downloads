@@ -8,27 +8,43 @@ Organisez, recherchez, écoutez et glissez-déposez vos fichiers audio directeme
 
 ---
 
-## Téléchargement — Version 1.0.0
+## ⬇️ Téléchargement
 
-### macOS (Apple Silicon — M1 / M2 / M3)
+> 🔗 **Lien permanent — toujours la dernière version :**
+> **<https://github.com/Takinouu/sfx-deck-downloads/releases/latest>**
+> Mettez **ce** lien en favori et partagez-le : il redirige automatiquement vers la version la plus récente. Évitez de copier un lien contenant un numéro de version (`…-v1.0.x.exe`), il deviendra obsolète.
 
-| Format | Lien | Usage |
-|---|---|---|
-| **DMG** (recommandé) | [⬇ SFX-Deck-macOS-v1.0.0.dmg](https://github.com/Takinouu/sfx-deck-downloads/releases/download/v1.0.0/SFX-Deck-macOS-v1.0.0.dmg) | Glisser dans Applications · 107 Mo |
-| ZIP | [⬇ SFX-Deck-macOS-v1.0.0.zip](https://github.com/Takinouu/sfx-deck-downloads/releases/download/v1.0.0/SFX-Deck-macOS-v1.0.0.zip) | Archive directe · 101 Mo |
+### Dernière version : **1.0.3**
 
-> Testé sur macOS 13 Ventura et 14 Sonoma · Apple Silicon uniquement (arm64)
-
-### Windows (x64 — Windows 10 / 11)
+#### macOS (Apple Silicon — M1 / M2 / M3)
 
 | Format | Lien | Usage |
 |---|---|---|
-| **Installeur** (recommandé) | [⬇ SFX-Deck-Windows-Setup-v1.0.0.exe](https://github.com/Takinouu/sfx-deck-downloads/releases/download/v1.0.0/SFX-Deck-Windows-Setup-v1.0.0.exe) | Installation standard · 97 Mo |
-| Portable | [⬇ SFX-Deck-Windows-Portable-v1.0.0.exe](https://github.com/Takinouu/sfx-deck-downloads/releases/download/v1.0.0/SFX-Deck-Windows-Portable-v1.0.0.exe) | Sans installation · 81 Mo |
+| **DMG** (recommandé) | [⬇ SFX-Deck-macOS-v1.0.3.dmg](https://github.com/Takinouu/sfx-deck-downloads/releases/download/v1.0.3/SFX-Deck-macOS-v1.0.3.dmg) | Glisser dans Applications · 131 Mo |
+| ZIP | [⬇ SFX-Deck-macOS-v1.0.3.zip](https://github.com/Takinouu/sfx-deck-downloads/releases/download/v1.0.3/SFX-Deck-macOS-v1.0.3.zip) | Archive directe · 125 Mo |
+
+> Testé sur macOS 13 Ventura, 14 Sonoma et 15 Sequoia · Apple Silicon uniquement (arm64)
+
+#### Windows (x64 — Windows 10 / 11)
+
+| Format | Lien | Usage |
+|---|---|---|
+| **Installeur** (recommandé) | [⬇ SFX-Deck-Windows-Setup-v1.0.3.exe](https://github.com/Takinouu/sfx-deck-downloads/releases/download/v1.0.3/SFX-Deck-Windows-Setup-v1.0.3.exe) | Installation standard · 118 Mo |
+| Portable | [⬇ SFX-Deck-Windows-Portable-v1.0.3.exe](https://github.com/Takinouu/sfx-deck-downloads/releases/download/v1.0.3/SFX-Deck-Windows-Portable-v1.0.3.exe) | Sans installation · 117 Mo |
 
 > Testé sur Windows 10 et 11 (64-bit)
 
 📋 [Voir toutes les versions](https://github.com/Takinouu/sfx-deck-downloads/releases)
+
+---
+
+## 🆕 Nouveautés de la 1.0.3
+
+- **Mise à jour intégrée** — l'app détecte les nouvelles versions et se met à jour depuis l'interface (macOS : mise à jour signée et vérifiée ; Windows : installeur automatique). Plus besoin de revenir télécharger ici à chaque version.
+- **Paramètres en fenêtre** — les réglages s'ouvrent désormais dans une fenêtre dédiée (croix de fermeture, Échap, clic à l'extérieur).
+- Corrections de robustesse et de sécurité.
+
+> Déjà sur une version précédente ? Inutile de re-télécharger : ouvrez l'app, la mise à jour vous sera proposée automatiquement.
 
 ---
 
@@ -67,7 +83,7 @@ L'application n'est pas encore signée avec un certificat Windows. SmartScreen p
 
 ### Via l'installeur (.exe)
 
-1. Double-cliquer sur `SFX-Deck-Windows-Setup-v1.0.0.exe`
+1. Double-cliquer sur `SFX-Deck-Windows-Setup-v1.0.3.exe`
 2. Si Windows SmartScreen s'affiche :
    - Cliquer **"Informations complémentaires"**
    - Cliquer **"Exécuter quand même"**
@@ -76,7 +92,7 @@ L'application n'est pas encore signée avec un certificat Windows. SmartScreen p
 
 ### Via la version portable
 
-1. Double-cliquer sur `SFX-Deck-Windows-Portable-v1.0.0.exe`
+1. Double-cliquer sur `SFX-Deck-Windows-Portable-v1.0.3.exe`
 2. Même procédure SmartScreen si nécessaire
 3. L'app se lance directement, sans installation
 
@@ -94,6 +110,7 @@ L'application n'est pas encore signée avec un certificat Windows. SmartScreen p
 - **Copie vers projet** — copier les sons dans un sous-dossier `SFX/` de votre projet
 - **Collections et favoris** — organisez vos sons préférés
 - **Arborescence** — naviguez par dossiers et sous-dossiers
+- **Mise à jour intégrée** — nouvelles versions détectées et installées depuis l'app
 - **100% hors ligne** — aucune connexion internet, aucun compte, aucun tracking
 
 ---
@@ -142,6 +159,9 @@ WAV · MP3 · AIFF · FLAC · M4A · AAC · OGG · OPUS · WMA
 
 **L'app est-elle gratuite ?**
 Oui, SFX Deck est gratuit.
+
+**Comment mettre à jour ?**
+Depuis la 1.0.2, l'app vérifie les nouvelles versions au démarrage et propose la mise à jour directement dans l'interface. Vous n'avez plus besoin de revenir télécharger manuellement.
 
 **Mon Mac Intel est-il supporté ?**
 Le build actuel est compilé pour Apple Silicon (arm64). Intel sera ajouté dans une prochaine version.
